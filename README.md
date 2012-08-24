@@ -6,7 +6,6 @@ The subclasses are incredibly easy to implement, and require you to conform to t
 
 `typedef void(^MKActionBlock)(NSInteger buttonIndex);`
 
-
 Which can be done as used in the demo (MKBlockActionSheet), shown below. 
 
 The `NSInteger buttonIndex` variable returns the index of the tapped button in either the `UIAlertView` or `UIActionSheet`.
