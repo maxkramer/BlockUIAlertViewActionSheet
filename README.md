@@ -1,6 +1,6 @@
-iReactions for iPhone
+MKBlocks - UIAlertView and UIActionSheet
 =====================================
-*iReactions for iPhone - Test your reactions FREE*
+**Block implementations for UIAlertView and UIActionSheet**
 
 The subclasses are incredibly easy to implement, and require you to conform to the block:
 
