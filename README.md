@@ -1,6 +1,6 @@
-MKBlocks (UIActionSheet & UIAlertView)
+iReactions for iPhone
 =====================================
-*UIAlertView &amp; UIActionSheet subclasses using Blocks rather than delegate callbacks*
+*iReactions for iPhone - Test your reactions FREE*
 
 The subclasses are incredibly easy to implement, and require you to conform to the block:
 
